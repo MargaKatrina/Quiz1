@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="editTextClassic" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@android:color/primary_text_light</item>
+        <item name="android:background">@android:drawable/edit_text</item>
+    </style>
+
+    <!-- Reference your style created above in each of your EditText properties: -->
+
+</resources>
